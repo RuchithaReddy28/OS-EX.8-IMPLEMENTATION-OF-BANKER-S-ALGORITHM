@@ -82,6 +82,6 @@ int main()
 ```
 
 ## OUTPUT:
-![output](don.png?raw=true)
+![output](https://github.com/SETTY-POOJITHA-AI/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/blob/main/don.png?raw=true)
 ## RESULT:
 Thus ,Banker’s Algorithm is successfully implemented using C programming.
